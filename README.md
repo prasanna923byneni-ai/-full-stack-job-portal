@@ -1,2 +1,16 @@
 # -full-stack-job-portal
- A full-stack job portal application with user authentication and job management features.
+ # CareerConnect - Job Portal Landing Page
+
+A responsive job portal landing page built using only HTML, CSS, and JavaScript.
+
+
+## ✨ Features
+- Responsive Navbar and Hero Section
+- Styled with CSS Flexbox
+- Interactive button with JavaScript
+- Clean and professional UI
+
+## 🛠️ Tech Stack
+HTML5 | CSS3 | JavaScript
+
+## 📁 Project Structure
