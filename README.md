@@ -3,7 +3,6 @@
 
 A responsive job portal landing page built using only HTML, CSS, and JavaScript.
 
-
 ## Features
 - Responsive Navbar and Hero Section
 - Styled with CSS Flexbox
